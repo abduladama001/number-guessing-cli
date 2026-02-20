@@ -1,3 +1,7 @@
+This project was taken from:
+https://roadmap.sh/projects/number-guessing-game
+
+
 Overview
 
 This is a Command Line Interface number guessing game written in Python. The computer randomly selects a number between 1 and 1000. The player chooses a difficulty level and attempts to guess the correct number within a limited number of chances.
